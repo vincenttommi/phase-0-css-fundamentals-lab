@@ -6,7 +6,7 @@ header{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:60%;
+    width: 900px;
 }
 
  a{
@@ -15,3 +15,26 @@ header{
     background-color:#00FA9A ;
 
  }
+
+ .featured-property{
+    width: 800px;
+    text-align:center;
+    line-height:1.6;
+
+ }
+ 
+
+#details{
+
+    float:left;
+    width:200px;
+    border: 3px solid #73AD21;
+    padding:10px;
+
+}  
+
+div{
+    background-color:#F5FFFA ;
+    text-align: center;
+    width:25%;
+}
